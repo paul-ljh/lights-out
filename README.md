@@ -1,7 +1,7 @@
 # Lights-Out
 The Classic Lights Out game (run in linux shell)
 
-Using C++ classes to implement the game of Lights Out. (http://en.wikipedia.org/wiki/Lights Out %28game%29)
+Using C++ classes to implement the game of Lights Out. (https://en.wikipedia.org/wiki/Lights_Out_(game))
 
 When you run your program, it will listen on stdin for commands. Your program must accept the following commands:
 • new n:
